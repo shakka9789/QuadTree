@@ -1,0 +1,1366 @@
+power2Size: 32
+Color: 1 , upperR: 0  , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 0 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 4 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 0 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 4 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 0 , Size: 8 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 8 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 12, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 8 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 12, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 8 , Size: 8 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 0 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 4 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 0 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 4 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 0 , Size: 8 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 8  , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 8  , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 9  , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 9  , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 8  , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 8  , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 8  , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 9  , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 9  , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 8  , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 10 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 10 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 11 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 11 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 10 , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 10 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 10 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 11 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 11 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 10 , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 8  , upperC: 8 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 8  , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 8  , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 9  , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 9  , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 8  , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 8  , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 8  , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 9  , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 9  , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 8  , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 10 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 10 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 11 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 11 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 10 , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 10 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 10 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 11 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 11 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 10 , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 8  , upperC: 12, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 12 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 12 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 13 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 13 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 12 , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 12 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 12 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 13 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 13 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 12 , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 14 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 14 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 15 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 15 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 14 , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 14 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 14 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 15 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 15 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 14 , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 12 , upperC: 8 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 12 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 12 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 13 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 13 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 12 , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 12 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 12 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 13 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 13 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 12 , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 14 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 14 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 15 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 15 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 14 , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 14 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 14 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 15 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 15 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 14 , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 12 , upperC: 12, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 8  , upperC: 8 , Size: 8 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 5 , upperR: 0  , upperC: 0 , Size: 16, NWColor: 1   , NEColor: 0   , SWColor: 0   , SEColor: 1
+Color: 1 , upperR: 0  , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 16, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 1  , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 3  , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 2  , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 20, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 16, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 5  , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 7  , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 6  , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 4  , upperC: 20, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 0  , upperC: 16, Size: 8 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 24, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 1  , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 3  , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 2  , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 28, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 24, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 5  , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 7  , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 6  , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 4  , upperC: 28, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 0  , upperC: 24, Size: 8 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 16, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 20, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 16, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 20, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 16, Size: 8 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 24, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 9  , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 11 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 10 , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 28, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 24, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 13 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 15 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 14 , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 12 , upperC: 28, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 8  , upperC: 24, Size: 8 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 5 , upperR: 0  , upperC: 16, Size: 16, NWColor: 1   , NEColor: 0   , SWColor: 0   , SEColor: 0
+Color: 1 , upperR: 16 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 16 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 17 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 17 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 16 , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 16 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 16 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 17 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 17 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 16 , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 18 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 18 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 19 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 19 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 18 , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 18 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 18 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 19 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 19 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 18 , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 16 , upperC: 0 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 16 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 16 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 17 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 17 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 16 , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 16 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 16 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 17 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 17 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 16 , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 18 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 18 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 19 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 19 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 18 , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 18 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 18 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 19 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 19 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 18 , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 16 , upperC: 4 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 21 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 21 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 21 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 21 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 23 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 23 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 23 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 23 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 0 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 21 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 21 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 21 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 21 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 23 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 23 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 23 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 23 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 4 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 16 , upperC: 0 , Size: 8 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 8 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 12, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 8 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 12, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 8 , Size: 8 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 0 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 4 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 0 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 1 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 0 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 2 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 3 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 2 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 0 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 4 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 5 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 4 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 6 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 7 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 6 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 4 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 0 , Size: 8 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 8 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 12, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 8 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 9 , Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 8 , Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 10, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 11, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 10, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 8 , Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 12, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 13, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 12, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 14, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 15, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 14, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 12, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 8 , Size: 8 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 5 , upperR: 16 , upperC: 0 , Size: 16, NWColor: 1   , NEColor: 0   , SWColor: 0   , SEColor: 0
+Color: 0 , upperR: 16 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 16, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 20, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 16, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 20, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 16, Size: 8 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 24, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 17 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 19 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 18 , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 16 , upperC: 28, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 21 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 21 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 21 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 21 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 23 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 23 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 23 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 23 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 22 , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 1 , upperR: 20 , upperC: 24, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 21 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 23 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 22 , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 20 , upperC: 28, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 5 , upperR: 16 , upperC: 24, Size: 8 , NWColor: 0   , NEColor: 0   , SWColor: 1   , SEColor: 0
+Color: 0 , upperR: 24 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 16, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 20, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 16, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 17, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 16, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 18, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 19, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 18, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 16, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 20, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 21, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 20, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 22, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 23, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 22, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 20, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 16, Size: 8 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 24, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 25 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 27 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 26 , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 28, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 24, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 25, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 24, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 26, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 27, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 26, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 24, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 29 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 28, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 29, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 28, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 30, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 31 , upperC: 31, Size: 1 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 30 , upperC: 30, Size: 2 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 28 , upperC: 28, Size: 4 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 0 , upperR: 24 , upperC: 24, Size: 8 , NWColor: null, NEColor: null, SWColor: null, SEColor: null
+Color: 5 , upperR: 16 , upperC: 16, Size: 16, NWColor: 0   , NEColor: 5   , SWColor: 0   , SEColor: 0
+Color: 5 , upperR: 0  , upperC: 0 , Size: 32, NWColor: 5   , NEColor: 5   , SWColor: 5   , SEColor: 5
